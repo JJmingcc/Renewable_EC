@@ -1,2 +1,1 @@
-Today is wonderful. 
-I choose to stay at home.
+This repo for the paper "Optimal Workload Allocation for Distributed Edge Clouds With Renewable Energy and Battery Storage" which is published in ICNC 2024 
